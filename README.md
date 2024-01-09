@@ -1,8 +1,8 @@
 # A simple BG color changer application
 
-## Developed using React and Tailwind CSS.
+## Developed using React and Tailwind CSS
 
-- Allows the user to change the background color of the page dynamically and even generates a randomm background.
+- Allows the user to change the background color of the page dynamically and further generate a random background color.
 
 ### Live Demo
 
