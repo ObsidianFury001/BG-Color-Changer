@@ -26,11 +26,11 @@ function App() {
       style={{backgroundColor: bgColor}}>
         
         <h1 className='md:text-2xl sm:text-lg text-center text-sky-200
-                      md:w-3/4 sm:w-full 
+                      md:w-1/2 sm:w-full 
                       py-2 mx-auto
                      bg-[#0f172a] rounded-xl
                       drop-shadow-md shadow-blue-800 font-semibold'>
-          BG Color changer App using tailwind
+          BG Color Changer
         </h1>
         <div className='flex flex-wrap justify-center 
                         fixed bottom-8 left-0 right-0 px-2'>
@@ -63,7 +63,7 @@ function App() {
                          focus:border-blue-600 focus:ring-blue-500 focus:ring-1
                          transition-all duration-300 ease-in-out'
                     onChange={HandleChange}
-                    placeholder="#1ffacc" maxLength="7" />
+                    placeholder="#1FFACC" maxLength="7" />
             <button className='bg-slate-950 text-gray-200 md:text-xl sm:text-lg 
                                  shadow-lg shadow-gray-500 hover:shadow-gray-500 rounded-xl
                                  transition-all duration-500 ease-in-out
