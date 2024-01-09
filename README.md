@@ -6,4 +6,4 @@
 
 ### Live Demo
 
-![Demo](https://github.com/ObsidianFury001/BG-Color-Changer/blob/master/demo.gif)
+![Demo](https://github.com/ObsidianFury001/BG-Color-Changer/blob/master/Live_demo.gif)
